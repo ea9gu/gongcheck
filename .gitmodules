@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/ea9gu/server.git
+[submodule "front"]
+	path = front
+	url = https://github.com/ea9gu/front.git
